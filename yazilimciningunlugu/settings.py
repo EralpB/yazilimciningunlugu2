@@ -25,7 +25,7 @@ SECRET_KEY = '!^o&=!=20yc$-gkl)5%mbrd(t4db=a=1(ncpbp!a(1&ud_+cr_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yazilimciningunlugu.pythonanywhere.com']
 
 
 # Application definition
